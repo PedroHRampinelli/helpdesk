@@ -1,6 +1,6 @@
-package com.api.helpdesk.domain;
+package com.api.helpdesk.domains;
 
-import com.api.helpdesk.domain.enums.Perfil;
+import com.api.helpdesk.domains.enums.Perfil;
 import jakarta.persistence.Entity;
 import jakarta.persistence.OneToMany;
 

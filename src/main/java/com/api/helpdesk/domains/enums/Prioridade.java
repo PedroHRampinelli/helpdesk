@@ -1,4 +1,4 @@
-package com.api.helpdesk.domain.enums;
+package com.api.helpdesk.domains.enums;
 
 public enum Prioridade {
     BAIXA(0, "PRIORIDADE_BAIXA"),

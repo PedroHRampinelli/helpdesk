@@ -1,7 +1,7 @@
-package com.api.helpdesk.domain;
+package com.api.helpdesk.domains;
 
-import com.api.helpdesk.domain.enums.Prioridade;
-import com.api.helpdesk.domain.enums.Status;
+import com.api.helpdesk.domains.enums.Prioridade;
+import com.api.helpdesk.domains.enums.Status;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 

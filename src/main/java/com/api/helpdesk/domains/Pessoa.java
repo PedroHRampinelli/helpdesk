@@ -1,6 +1,6 @@
-package com.api.helpdesk.domain;
+package com.api.helpdesk.domains;
 
-import com.api.helpdesk.domain.enums.Perfil;
+import com.api.helpdesk.domains.enums.Perfil;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 
